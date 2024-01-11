@@ -1,0 +1,18 @@
+{
+    "name": "dominik.panczak/code-algorithms",
+    "autoload": {
+        "psr-4": {
+            "DominikPanczak\\CodeAlgorithms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominik Pańczak",
+            "email": "dominik.panczak@pit.lukasiewicz.gov.pl"
+        }
+    ],
+    "require": {
+        "irestful/hashmapsets": "*",
+        "psx/record": "*"
+    }
+}
